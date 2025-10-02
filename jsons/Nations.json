@@ -1,1 +1,132 @@
-e
+[
+	//////Ant
+	{
+		"name": "Pyra Formica Dominion",
+		"leaderName": "Magna Mater Ignea",
+		"adjective": ["Fire Ant"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Fire Cult",
+		"startIntroPart1": "You stand before the Burning Swarm, forged in flame and bound by the will of the Queen. All lands shall feel the march of our mandibles.",
+		"declaringWar": "The hive hungers, and your lands will feed our fire.",
+		"attacked": "You dare strike the Swarm? Then you shall be consumed in the blaze.",
+		"defeated": "The fire dims... but embers always remain.",
+		"denounced": "Your weakness spreads like rot. The Swarm will not forget.",
+		"introduction": "We are the Fire Ant Dominion, united in purpose and flame. Approach with respect... or be scorched.",
+		"neutralHello": "The Swarm listens.",
+		"hateHello": "You walk too close to the fire.",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [179, 45, 24],
+		"innerColor": [255, 190, 28],
+		"uniqueName": "Fire Ant Dominion",
+		"uniques": ["[+15]% Strength <when fighting in [Desert] tiles>", "[+1 Production] from [Desert] tiles [in all cities]"],
+		"style": "FireAnt",
+		"cities": ["Pyrrhova","Antivra","Kryzath","Thivakra","Furnaxis","Zorythra","Molthara","Igravax","Sythra’ka","Vulkrid","Ashkra","Klavith","Tizkra","Braxith","Morthava","Chyrrik","Azthrakra","Fyrnath","Thykkra","Vorrak","Grathis"]
+		"spyNames": ["Redfang","Ash Whisper","Molten Shade","Chitin Veil","Firecarapace","Scorchmantle","Ember Fang","Silent Mandible","Heat Stalker","Blaze Mask","Venom Tongue","Crimson Crawler","Burrowed Flame","Smoke Fang","Shadow Mandible"]
+	},
+	
+	//////Fox
+	///Red
+	{
+		"name": "Foxkin Empire",
+		"leaderName": "General Inari",
+		"adjective": ["Fox"],
+		"startBias": ["Hill","Forest"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Zoroastrianism",
+		"startIntroPart1": "In the shadowy forests and mist-shrouded hills, the Foxkin have forged a proud and fierce civilization. Led by the cunning and charismatic General Inari, the foxmen have perfected the art of war as a way of life. Where others see chaos, they see strategy. Where others hesitate, they strike without hesitation. Their mastery of ambushes and lightning speed make their armies a lethal shadow on the battlefield. As leader of the Foxkin Empire, your mission is clear: expand your territory, crush your enemies, and leave a mark of glory and respect in the history of the world. Will you be able to lead your cunning and proud people to total military supremacy?",
+		"declaringWar": "You thought the forest was peaceful... until you saw our blades gleam.",
+		"attacked": "Interesting. You have declared war. We declare your defeat.",
+		"defeated": "The forest holds our secrets, and the wind will carry our legends. Today we lose... but we will never be extinguished.",
+		"denounced": "Talk is cheap. I hope you have the strength to back up your words.",
+		"introduction": "I am General Inari, leader of the Foxkin Empire. We expect respect... or resistance. Your choice.",
+		"neutralHello": "Your footsteps are loud. The forest hears you... and so do we.",
+		"hateHello": "We don't like prey who think they're predators.",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [47, 79, 79],
+		"innerColor": [136, 68, 0],
+		"uniqueName": "The secret of the forest",
+		"uniques": ["Red Fox","Earn [25]% of killed [Military] unit's [Strength] as [Gold]","[+20]% Production when constructing [Military] units [in all cities]","Starts with [Honor] adopted"],
+		"style": "RedFox",
+		"cities": ["Inarika","Zorval","Clawspire","Fangmist","Vulpenheim","Tailsend","Denshade","Thornwatch","Ashgrove","Nightden","Skyrend","Howlfang","Foxhold","Whisperhill","Redbrush","Mistfang","Embertrail","Nimbleclaw","Greyroot","Shadowtail"],
+		"spyNames": ["Khaukraax","Knookok","Vulag","Tholgriz","Taazzug","Naazroz","Firewound","Steelbraid","Moltenfeet","Silverridge"]
+	},
+	///Grey
+	{
+		"name": "Gray Domain of Xolkan",
+		"leaderName": "Tlakatani Vhol",
+		"adjective": ["Fox"],
+		"startBias": ["Hill","Forest"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "",
+		"startIntroPart1": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"denounced": "",
+		"introduction": "",
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [204, 195, 185],
+		"innerColor": [239, 184, 16],
+		"uniqueName": "",
+		"uniques": [],
+		"style": "GrayFox",
+		"cities": ["Xolkan", "Ixkall", "Tlahzuan", "Varkholm", "Tonakapek", "Norrvak", "Ek’tepetl", "Runatl", "Teulvahr", "Zintal", "Skarnatl", "Kolzuma", "Tzekhall", "Ylgrak", "Huixnor", "Valtlani", "Quinyoll", "Olmotep", "Zarval", "Aztkyn"],
+		"spyNames": ["Kogthoc","Mikhuz","Zhiccok","Maurzooc","Zhulgrax","Kuzgoox","Sterntooth","Shattersnout","Shattercoat","Grizzlywound"]
+	},
+	///Arctic
+	{
+		"name": "Snow Fang Union",
+		"leaderName": "Kommissar-Kveen Yelovara",
+		"adjective": ["Arctic Fox","Slave Revolt"],
+		"startBias": ["Snow","Tundra"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Orthodox Fang",
+		"startIntroPart1": "In the frozen north rises the Snow Fang Union, a dominion of discipline and steel. Once scattered packs of Arctic foxes, they were united under the Commissar-Kings, forging an empire as cold and unyielding as the tundra itself. They march with imperial banners and socialist zeal, convinced that the south must bow before the power of the frost.",
+		"declaringWar": "From the snow we rise, and to the snow you shall fall! The frost devours all!",
+		"attacked": "You dare strike the Union of Fang? The blizzard will erase your name from history!",
+		"defeated": "The snow is red with our blood... yet winter is eternal. The crowning frost will outlive me.",
+		"denounced": "Your weakness spreads like thawing ice. We denounce your decay.",
+		"introduction": "I am Yelovara, Kommissar-Kveen of the Snow Fang Union. Ours is the eternal winter, ours is the destiny of domination. Do you come as ally, or as prey to the cold?",
+		"neutralHello": "The frost greets you, traveler. Stay strong, or the cold will claim you.",
+		"hateHello": "Your name is cursed among the snows. Begone before the ice cracks beneath your paws.",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [200, 30, 30],
+		"innerColor": [240, 240, 255],
+		"uniqueName": "Boreal Nationalism",
+		"uniques": ["[+15]% Production <in [Snow] tiles>", "[+10]% Combat Strength <in [Tundra] tiles>", "Units ignore movement penalties from Snow"],
+		"style": "ArcticFox",
+		"cities": ["Kapitalvarg", "Nordholm", "Snezhrad", "Isstad", "Rödmark", "Glasbyen", "Volkovo", "Arkhangrad", "Frostheim", "Ledovik", "Polarny", "Stjärnborg","Arcti","Quilt","Driftcrest","Coldmore","Icefall","Wolftide","Winterfall","Glissmire"],
+		"spyNames": ["Blizzard", "White Shadow", "Red Fang", "Snowveil", "Frostbite", "Volk", "Silent Howl", "Arctis", "Ghost Paw", "Kommissar Shade"]
+	},
+	
+	//////Wolf
+	///Grey
+	{
+		"name": "Ashen Howl Sultanate",
+		"leaderName": "Sultan Ulugh-Kurt",
+		"adjective": ["Wolf","Grey wolf"],
+		"startBias": ["Desert","Hill"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Sacred Howl",
+		"startIntroPart1": "From the steppes and deserts rose the Ashen Howl Sultanate, uniting tribes beneath the crescent moon and the eternal howl of the grey wolf. Their banners stretched across mountains and seas, built on faith, steel, and trade. Now the Sultan calls once more for conquest, for the empire is destined to eclipse all rivals.",
+		"declaringWar": "Your walls shall crumble, and your people shall bow beneath the howl of the Sultan!",
+		"attacked": "So, the coward strikes first? The wolves will tear you apart beneath the crescent moon.",
+		"defeated": "The howl fades... yet the moon still rises. Another shall carry our destiny.",
+		"denounced": "You are but dust in the desert wind, unworthy of the Crescent Howl.",
+		"introduction": "I am Sultan Ulugh-Kurt, voice of the Crescent, fang of the eternal wolf. Do you come to honor our empire, or to be devoured by it?",
+		"neutralHello": "Peace be upon you, wanderer. The Sultanate greets friend and stranger alike.",
+		"hateHello": "The Sultan has no patience for your weakness. Begone, or face the wrath of the wolves.",
+		"tradeRequest": "Wanna trade?",
+		"outerColor": [50, 50, 50],
+		"innerColor": [200, 160, 60],
+		"uniqueName": "Howl of the Crescent",
+		"uniques": ["[+15]% Combat Strength <when attacking Cities>", "[+2 Gold] from each Trade Route", "[+1 Production] from [Desert] tiles"],
+		"style": "GreyWolf",
+		"cities": ["Ulughport", "Kurtabad", "Ashkaran", "Howldar", "Moonspire", "Steppefang", "Bazarkent", "Sungar", "Wolfrad", "Khazhowl", "Tengrivale", "Graymark", "Al-Kurt", "Lunara", "Crescenthold"],
+		"spyNames": ["Silent Fang", "Moonshade", "Desert Howl", "Whisperclaw", "Night Prowler", "Shadow Pelt", "Silver Gaze", "Steppe Ghost", "Fangveil", "Watcher of the Crescent"]
+	}
+	
+]
