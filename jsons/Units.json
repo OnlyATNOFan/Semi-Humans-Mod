@@ -479,7 +479,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Kyūyon-shiki sanjyūnana-miri sokushahō",
+		"name": "Fokkusu taisenshahō",
 		"unitType": "Gunpowder",
 		"replaces": "Anti-Tank Gun",
 		"uniqueTo": "Red Fox",
