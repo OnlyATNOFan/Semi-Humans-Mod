@@ -750,6 +750,21 @@
 		"attackSound": "cannon"
 	},
 	{
+		"name": "Fīrudokyanon",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Field Cannon",
+		"uniqueTo": "Red Fox",
+		"movement": 2,
+		"strength": 28,
+		"rangedStrength": 32,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Field Gun",
+		"obsoleteTech": "Ballistics",
+		"uniques": ["Never appears as a Barbarian unit", "[-10]% Strength <vs [Infantry] units>"],
+		"attackSound": "cannon"
+	},
+	{
 		"name": "Fokkusukamu",
 		"unitType": "Militia",
 		"replaces": "Levies",
