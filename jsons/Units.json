@@ -749,6 +749,7 @@
 		"uniques": ["[-10]% Strength <vs [Infantry] units>","Double movement in [Forest]"],
 		"attackSound": "cannon"
 	},
+	///Militia
 	{
 		"name": "Fokkusukamu",
 		"unitType": "Militia",
@@ -804,6 +805,89 @@
 		"obsoleteTech": "Industrialization",
 		"attackSound": "Volley_Fire"
 	},
+	{
+		"name": "Shimin shohei kitsune",
+		"unitType": "Militia",
+		"replaces": "Volunteers",
+		"uniqueTo": "Red Fox",
+		"movement": 3,
+		"strength": 20,
+		"cost": 50,
+		"uniques": ["Infantry","May upgrade to [Fokkusuraifuruman] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"upgradesTo": "Draftee",
+		"requiredTech": "Industrialization",
+		"obsoleteTech": "Radio",
+		"attackSound": "Volley_Fire"
+	},
+	{
+		"name": "Shōhei kitsune",
+		"unitType": "Militia",
+		"replaces": "Draftee",
+		"uniqueTo": "Red Fox",
+		"movement": 3,
+		"strength": 35,
+		"cost": 70,
+		"uniques": ["Infantry","May upgrade to [Shoki no kitsune hohei] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"upgradesTo": "Conscripts",
+		"requiredTech": "Radio",
+		"obsoleteTech": "Pharmaceuticals",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Kitsune gunpei",
+		"unitType": "Militia",
+		"replaces": "Conscripts",
+		"uniqueTo": "Red Fox",
+		"movement": 3,
+		"strength": 45,
+		"cost": 100,
+		"uniques": ["Infantry","May upgrade to [Kitsune hohei] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-25]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-1] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"upgradesTo": "Irregulars",
+		"requiredTech": "Pharmaceuticals",
+		"obsoleteTech": "Telecommunications",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Jieitai kitsune",
+		"unitType": "Militia",
+		"replaces": "Irregulars",
+		"uniqueTo": "Red Fox",
+		"movement": 3,
+		"strength": 55,
+		"cost": 130,
+		"uniques": ["Infantry","May upgrade to [Gendai no kitsune hohei] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-25]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-1] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"upgradesTo": "Armed Citizen",
+		"obsoleteTech": "New Gen Comunications",
+		"requiredTech": "Telecommunications",
+		"attackSound": "shots"
+	},
+	{
+		"name": "Rengō no kitsune",
+		"unitType": "Militia",
+		"replaces": "Armed Citizen",
+		"uniqueTo": "Red Fox",
+		"movement": 4,
+		"strength": 65,
+		"cost": 160,
+		"uniques": ["Infantry","May upgrade to [Zoruna eisei sensō no hohei] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-25]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"upgradesTo": "Paramilitary",
+		"obsoleteTech": "New Gen Comunications II",
+		"requiredTech": "New Gen Comunications",
+		"attackSound": "shots"
+	},
+	{
+		"name": "Kitsune senpei",
+		"unitType": "Militia",
+		"replaces": "Paramilitary",
+		"uniqueTo": "Red Fox",
+		"movement": 4,
+		"strength": 75,
+		"cost": 190,
+		"uniques": ["Infantry","May upgrade to [Konton no jidai Fokkusu hohei] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-25]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"requiredTech": "New Gen Comunications II",
+		"attackSound": "shots"
+	},
+	///SiegeB
 	{
 		"name": "Barisuta",
 		"unitType": "Siege",
