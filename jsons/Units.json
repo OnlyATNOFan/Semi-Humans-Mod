@@ -517,7 +517,7 @@
 		"requiredTech": "Lasers",
 		"upgradesTo": "Satelital War AT Missile",
 		"obsoleteTech": "New Gen Ballistics",
-		"uniques": ["Infantry","Never appears as a Barbarian unit", "[+50]% Strength <vs [Armored] units>","Double movement in [Forest]"],
+		"uniques": ["Infantry","Double movement in [Forest]", "[+50]% Strength <vs [Armored] units>","Double movement in [Forest]"],
 		"attackSound": "missile"
 	},
 	{
@@ -529,7 +529,7 @@
 		"strength": 85,
 		"cost": 500,
 		"requiredTech": "New Gen Ballistics",
-		"uniques": ["Infantry","Never appears as a Barbarian unit", "[+50]% Strength <vs [Armored] units>","Double movement in [Forest]"],
+		"uniques": ["Infantry","Double movement in [Forest]", "[+50]% Strength <vs [Armored] units>","Double movement in [Forest]"],
 		"attackSound": "missile"
 	},
 	{
@@ -758,7 +758,7 @@
 		"movement": 3,
 		"strength": 5,
 		"cost": 15,
-		"uniques": ["Infantry","May upgrade to [Spearman] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"uniques": ["Infantry","May upgrade to [Kitsune no sōhei] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
 		"upgradesTo": "Citizen Militia",
 		"obsoleteTech": "Mathematics",
 		"attackSound": "nonmetalhit"
@@ -771,7 +771,7 @@
 		"movement": 3,
 		"strength": 8,
 		"cost": 20,
-		"uniques": ["Infantry","May upgrade to [Heavy Infantry] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"uniques": ["Infantry","May upgrade to [Faranjisuto no kitsune] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
 		"upgradesTo": "Armed Peasants",
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Civil Service",
@@ -785,7 +785,7 @@
 		"movement": 3,
 		"strength": 12,
 		"cost": 30,
-		"uniques": ["Infantry","May upgrade to [Pikeman] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"uniques": ["Infantry","May upgrade to [Paikumanfokkusu] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
 		"upgradesTo": "Militiaman",
 		"requiredTech": "Civil Service",
 		"obsoleteTech": "Printing Press",
@@ -799,7 +799,7 @@
 		"movement": 3,
 		"strength": 15,
 		"cost": 40,
-		"uniques": ["Infantry","May upgrade to [Musketman] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
+		"uniques": ["Infantry","May upgrade to [Teppo kitsune] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-50]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-2] Movement <in [Foreign Land] tiles>","Double movement in [Forest]"],
 		"upgradesTo": "Volunteers",
 		"requiredTech": "Printing Press",
 		"obsoleteTech": "Industrialization",
@@ -899,7 +899,7 @@
 		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["Infantry","Defense bonus when embarked", "[+1] Movement <when [Embarked]>"],
+		"uniques": ["Infantry","Defense bonus when embarked", "[+1] Movement <when [Embarked]>","Double movement in [Forest]"],
 		"upgradesTo": "Marine",
 		"attackSound": "shot"
 	},
@@ -915,7 +915,7 @@
 		"upgradesTo": "Modern Marine",
 		"obsoleteTech": "Mobile Tactics",
 		"promotions": ["Amphibious"],
-		"uniques": ["Infantry","[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+2] Movement <when [Embarked]>", "Defense bonus when embarked"],
+		"uniques": ["Infantry","[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+2] Movement <when [Embarked]>", "Defense bonus when embarked","Double movement in [Forest]"],
 		"attackSound": "shots"
 	},
 	{
@@ -929,7 +929,7 @@
 		"requiredTech": "Mobile Tactics",
 		"upgradesTo": "Satelital War Marine",
 		"obsoleteTech": "Future Tactics",
-		"uniques": ["Infantry","[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+2] Movement <when [Embarked]>", "Defense bonus when embarked"],
+		"uniques": ["Infantry","[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+2] Movement <when [Embarked]>", "Defense bonus when embarked","Double movement in [Forest]"],
 		"attackSound": "shots",
 		"promotions": ["Amphibious","Morale"]
 	},
@@ -944,7 +944,7 @@
 		"requiredTech": "Future Tactics",
 		"upgradesTo": "Chaos Era Marine",
 		"obsoleteTech": "New Gen equipment",
-		"uniques": ["Infantry","[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+2] Movement <when [Embarked]>", "Defense bonus when embarked"],
+		"uniques": ["Infantry","[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+2] Movement <when [Embarked]>", "Defense bonus when embarked","Double movement in [Forest]"],
 		"attackSound": "shots",
 		"promotions": ["Amphibious","Morale"]
 	},
@@ -957,7 +957,7 @@
 		"strength": 90,
 		"cost": 550,
 		"requiredTech": "New Gen equipment",
-		"uniques": ["Infantry","[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+2] Movement <when [Embarked]>", "Defense bonus when embarked"],
+		"uniques": ["Infantry","[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>", "[+2] Movement <when [Embarked]>", "Defense bonus when embarked","Double movement in [Forest]"],
 		"attackSound": "shots",
 		"promotions": ["Amphibious","Morale"]
 	},
