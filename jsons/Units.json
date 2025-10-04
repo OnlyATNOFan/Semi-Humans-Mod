@@ -1134,8 +1134,6 @@
 
         "strength": 15,
         "movement": 2,
-		"replaces": "",
-		"uniqueTo": "Red Fox",
         "attackSound": "metalhit",
         "cost": 120
     },
@@ -1150,8 +1148,6 @@
 
         "uniques": ["All adjacent units heal [+10] HP when healing",
             "Double movement in [Forest]"],
-		"replaces": "",
-		"uniqueTo": "Red Fox",
         "strength": 20,
         "movement": 2,
 
