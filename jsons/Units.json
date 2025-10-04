@@ -1607,4 +1607,35 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","[+10]% Strength <when attacking>"],
 		"attackSound": "horse"
 	},
+	//counter cav
+	{
+		"name": "Kitsune yarihei",
+		"unitType": "Mounted",
+		"replaces": "Medieval Lancer",
+		"uniqueTo": "Red Fox",
+		"movement": 5,
+		"strength": 16,
+		"cost": 135,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"requiredResource": "Horses",
+		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit", "[+35]% Strength <vs [Mounted] units>", "Double movement in [Forest]"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Kitsune no sōryū",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Red Fox",
+		"movement": 4,
+		"strength": 22,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit", "[+50]% Strength <vs [Mounted] units>", "Double movement in [Forest]"],
+		"upgradesTo": "Tank Destroyer",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
 ]
