@@ -1467,7 +1467,7 @@
 		"cost": 75,
 		"requiredResource": "Horses",
 		"uniques": ["May upgrade to [Kage no kiba] through ruins-like effects", "Never appears as a Barbarian unit", "[+100]% Strength <vs [Barbarian] units> <when fighting in [Friendly Land] tiles>", "[-25]% Strength <when fighting in [Foreign Land] tiles>", "[-75]% maintenance costs", "[-1] Movement <in [Foreign Land] tiles>", "Double movement in [Forest]"],
-		"upgradesTo":"Machine Gun Car",
+		"upgradesTo":"Improvised Gun Car",
 		"requiredTech": "Rifling",
 		"obsoleteTech":"Railroads",
 		"attackSound": "shot"
