@@ -19,7 +19,7 @@
 		"outerColor": [179, 45, 24],
 		"innerColor": [255, 190, 28],
 		"uniqueName": "Fire Ant Dominion",
-		"uniques": ["[+15]% Strength <when fighting in [Desert] tiles>", "[+1 Production] from [Desert] tiles [in all cities]"],
+		"uniques": ["FireAnt", "[+15]% Strength <when fighting in [Desert] tiles>", "[+1 Production] from [Desert] tiles [in all cities]"],
 		"style": "FireAnt",
 		"cities": ["Pyrrhova","Antivra","Kryzath","Thivakra","Furnaxis","Zorythra","Molthara","Igravax","Sythra’ka","Vulkrid","Ashkra","Klavith","Tizkra","Braxith","Morthava","Chyrrik","Azthrakra","Fyrnath","Thykkra","Vorrak","Grathis"]
 		"spyNames": ["Redfang","Ash Whisper","Molten Shade","Chitin Veil","Firecarapace","Scorchmantle","Ember Fang","Silent Mandible","Heat Stalker","Blaze Mask","Venom Tongue","Crimson Crawler","Burrowed Flame","Smoke Fang","Shadow Mandible"]
@@ -71,7 +71,7 @@
 		"outerColor": [204, 195, 185],
 		"innerColor": [239, 184, 16],
 		"uniqueName": "Moonfang Zeal",
-		"uniques": ["[+15]% Combat Strength <when fighting in [Forest] tiles>", "[+10]% Combat Strength <when attacking from [Hill] tiles>", "Gain [Faith] from killing enemy military units"],
+		"uniques": ["GrayFox","[+15]% Combat Strength <when fighting in [Forest] tiles>", "[+10]% Combat Strength <when attacking from [Hill] tiles>", "Gain [Faith] from killing enemy military units"],
 		"style": "GrayFox",
 		"cities": ["Xolkan", "Ixkall", "Tlahzuan", "Varkholm", "Tonakapek", "Norrvak", "Ek’tepetl", "Runatl", "Teulvahr", "Zintal", "Skarnatl", "Kolzuma", "Tzekhall", "Ylgrak", "Huixnor", "Valtlani", "Quinyoll", "Olmotep", "Zarval", "Aztkyn"],
 		"spyNames": ["Kogthoc","Mikhuz","Zhiccok","Maurzooc","Zhulgrax","Kuzgoox","Sterntooth","Shattersnout","Shattercoat","Grizzlywound"]
@@ -96,7 +96,7 @@
 		"outerColor": [200, 30, 30],
 		"innerColor": [240, 240, 255],
 		"uniqueName": "Boreal Nationalism",
-		"uniques": ["[+15]% Production <in [Snow] tiles>", "[+10]% Combat Strength <in [Tundra] tiles>", "Units ignore movement penalties from Snow"],
+		"uniques": ["ArcticFox", "[+15]% Production <in [Snow] tiles>", "[+10]% Combat Strength <in [Tundra] tiles>", "Units ignore movement penalties from Snow"],
 		"style": "ArcticFox",
 		"cities": ["Kapitalvarg", "Nordholm", "Snezhrad", "Isstad", "Rödmark", "Glasbyen", "Volkovo", "Arkhangrad", "Frostheim", "Ledovik", "Polarny", "Stjärnborg","Arcti","Quilt","Driftcrest","Coldmore","Icefall","Wolftide","Winterfall","Glissmire"],
 		"spyNames": ["Blizzard", "White Shadow", "Red Fang", "Snowveil", "Frostbite", "Volk", "Silent Howl", "Arctis", "Ghost Paw", "Kommissar Shade"]
@@ -123,7 +123,7 @@
 		"outerColor": [50, 50, 50],
 		"innerColor": [200, 160, 60],
 		"uniqueName": "Howl of the Crescent",
-		"uniques": ["[+15]% Combat Strength <when attacking Cities>", "[+2 Gold] from each Trade Route", "[+1 Production] from [Desert] tiles"],
+		"uniques": ["GreyWolf", "[+15]% Combat Strength <when attacking Cities>", "[+2 Gold] from each Trade Route", "[+1 Production] from [Desert] tiles"],
 		"style": "GreyWolf",
 		"cities": ["Ulughport", "Kurtabad", "Ashkaran", "Howldar", "Moonspire", "Steppefang", "Bazarkent", "Sungar", "Wolfrad", "Khazhowl", "Tengrivale", "Graymark", "Al-Kurt", "Lunara", "Crescenthold"],
 		"spyNames": ["Silent Fang", "Moonshade", "Desert Howl", "Whisperclaw", "Night Prowler", "Shadow Pelt", "Silver Gaze", "Steppe Ghost", "Fangveil", "Watcher of the Crescent"]
