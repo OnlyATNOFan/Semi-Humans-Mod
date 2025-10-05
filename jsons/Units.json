@@ -475,7 +475,7 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"uniques": ["Infantry",
 		"[+50]% Strength <vs [Armored] units>","Double movement in [Forest]"],
-		"attackSound": "shot"
+		"attackSound": "AntiTankShot"
 	},
 	{
 		"name": "Fokkusu taisenshahō",
