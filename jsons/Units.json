@@ -1371,7 +1371,7 @@
 	},
 	{
 		"name": "Seishin kidōtai",
-		"unitType": "Gunpowder",
+		"unitType": "Armored",
 		"replaces": "Mechanized Infantry",
 		"uniqueTo": "Red Fox",
 		"movement": 4,
@@ -1386,7 +1386,7 @@
 	},
 	{
 		"name": "Eisei kidō butai",
-		"unitType": "Gunpowder",
+		"unitType": "Armored",
 		"replaces": "Satelital War Mechanized Infantry",
 		"uniqueTo": "Red Fox",
 		"movement": 5,
@@ -1401,7 +1401,7 @@
 	},
 	{
 		"name": "Yūrei kōgekitai",
-		"unitType": "Gunpowder",
+		"unitType": "Armored",
 		"replaces": "Ghost Assault Group Early",
 		"uniqueTo": "Red Fox",
 		"movement": 5,
