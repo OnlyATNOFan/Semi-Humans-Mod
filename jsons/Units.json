@@ -421,7 +421,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Paikumanfokkusu",
+		"name": "Samuraikitsune Naginata",
 		"unitType": "Sword",
 		"replaces": "Pikeman",
 		"uniqueTo": "Red Fox",
