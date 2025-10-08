@@ -33,7 +33,7 @@
 		"adjective": ["Fox"],
 		"startBias": ["Hill","Forest"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Zoroastrianism",
+		"favoredReligion": "Kitsunari",
 		"startIntroPart1": "In the shadowy forests and mist-shrouded hills, the Foxkin have forged a proud and fierce civilization. Led by the cunning and charismatic General Inari, the foxmen have perfected the art of war as a way of life. Where others see chaos, they see strategy. Where others hesitate, they strike without hesitation. Their mastery of ambushes and lightning speed make their armies a lethal shadow on the battlefield. As leader of the Foxkin Empire, your mission is clear: expand your territory, crush your enemies, and leave a mark of glory and respect in the history of the world. Will you be able to lead your cunning and proud people to total military supremacy?",
 		"declaringWar": "You thought the forest was peaceful... until you saw our blades gleam.",
 		"attacked": "Interesting. You have declared war. We declare your defeat.",
@@ -48,7 +48,7 @@
 		"uniqueName": "The secret of the forest",
 		"uniques": ["Red Fox","Earn [25]% of killed [Military] unit's [Strength] as [Gold]","[+20]% Production when constructing [Military] units [in all cities]","Starts with [Honor] adopted"],
 		"style": "RedFox",
-		"cities": ["Inarika","Zorval","Clawspire","Fangmist","Vulpenheim","Tailsend","Denshade","Thornwatch","Ashgrove","Nightden","Skyrend","Howlfang","Foxhold","Whisperhill","Redbrush","Mistfang","Embertrail","Nimbleclaw","Greyroot","Shadowtail"],
+		"cities": ["Inarimori", "Kitsunehara", "Tailsreach", "Yamigakure", "Mizukawa", "Kaenjo", "Kogarasumaru", "Senbonzakura", "Shinkiro", "Tsukikage"],
 		"spyNames": ["Khaukraax","Knookok","Vulag","Tholgriz","Taazzug","Naazroz","Firewound","Steelbraid","Moltenfeet","Silverridge"]
 	},
 	///Grey
