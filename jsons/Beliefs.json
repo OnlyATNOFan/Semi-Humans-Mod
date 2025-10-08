@@ -1,0 +1,98 @@
+[
+        {
+        "name": "Mori no Sasayaki",
+        "type": "Pantheon",
+        "uniques": [
+            "Only available <for [Foxkin Empire] Civilizations>",
+            "[+1 Food, +2 Happiness, +1 Faith, +1 Science, +2 Culture] from [Forest] tiles [in cities following this religion]"
+        ],
+        "civilopediaText": [
+            {
+            "text": "The forest holds the secrets of the world and whispers them to the devoted."
+            }
+        ]
+        },
+        {
+        "name": "Kitsunebi no Ashiato",
+        "type": "Pantheon",
+        "uniques": [
+            "Only available <for [Foxkin Empire] Civilizations>",
+            "[+10] HP when healing <for [All] units>",
+            "[+1] Movement <for [All] units> <in [Friendly Land] tiles>"
+        ],
+        "civilopediaText": [
+            {
+            "text": "Wherever the spirit walks, it leaves a trail of invisible power."
+            }
+        ]
+        },
+        {
+        "name": "Reiko no Kizuna",
+        "type": "Founder",
+        "uniques": [
+            "Only available <for [Foxkin Empire] Civilizations>",
+            "[+3 Gold, +1 Happiness, +2 Culture] per [10] population [in all cities]",
+            "[+1 Food, +1 Production, +5 Gold, +3 Happiness, +1 Faith, +1 Science, +5 Culture] per [5] population [in capital]"
+        ],
+        "civilopediaText": [
+            {
+            "text": "All children of the spirit are united by a common destiny."
+            }
+        ]
+        },
+        {
+        "name": "Uchinuru Honō",
+        "type": "Follower",
+        "uniques": [
+            "Only available <for [Foxkin Empire] Civilizations>",
+            "Earn [50]% of [Military] unit's [Strength] as [Culture] when killed within 4 tiles of a city following this religion"
+        ],
+        "civilopediaText": [
+            {
+            "text": "Those who believe fight with fire in their souls."
+            }
+        ]
+        },
+        {
+        "name": "Shinsei no Michibiki",
+        "type": "Follower",
+        "uniques": [
+            "Only available <for [Foxkin Empire] Civilizations>",
+            "[+1 Faith, +1 Science, +1 Culture] from every specialist [in cities following this religion]",
+            "[+1 Happiness] [in cities following this religion]"
+        ],
+        "civilopediaText": [
+            {
+                "text": "The divine path enlightens the minds and hearts of those who serve."
+            }
+        ]
+        },
+        {
+        "name": "Shinsei no Michibiki",
+        "type": "Follower",
+        "uniques": [
+            "Only available <for [Foxkin Empire] Civilizations>",
+            "[+10]% Strength for cities <in [in cities following this religion] cities>"
+        ],
+        "civilopediaText": [
+            {
+            "text": "The ancestral spirits watch over the faithful, shielding them from harm."
+            }
+        ]
+        },
+        {
+        "name": "Kōjin no Kaze",
+        "type": "Enhancer",
+        "uniques": [
+            "Only available <for [Foxkin Empire] Civilizations>",
+            "[25]% Natural religion spread [in all cities]",
+            "[+1 Food, +2 Happiness, +5 Faith, +1 Science, +2 Culture] from [Forest] tiles [in cities following this religion]",
+            "[+1 Food, +2 Happiness, +1 Faith, +1 Science, +2 Culture] from [Hill] tiles [in cities following this religion]"
+        ],
+        "civilopediaText": [
+            {
+                "text": "The spirit wind carries the sacred message through forests and mountains."
+            }
+        ]
+        }
+]
